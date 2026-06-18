@@ -12,6 +12,18 @@
     margin-top:100px;
 }
 
+.btn-link {
+    margin: 30px auto;
+}
+.btn-link a {
+    color: rgb(14, 52, 85);
+    text-decoration: none;
+    width: 100px;
+    padding: 20px;
+    background-color: rgb(154, 219, 214);
+    border-radius: 30px;
+}
+
 body {
     max-width: 500px;
     font-family: "Kiwi Maru", serif;
