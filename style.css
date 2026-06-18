@@ -1,3 +1,24 @@
+.kiwi-maru-regular {
+  font-family: "Kiwi Maru", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.hazime {
+    width: 80%;
+    max-width: 500px; 
+    margin: 0 auto;
+    text-align: center;
+    margin-top:100px;
+}
+
 body {
     max-width: 500px;
+    font-family: "Kiwi Maru", serif;
+}
+.title {
+    text-align: center;
+}
+.wavebox {
+    text-align: center;
 }
